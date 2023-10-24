@@ -2,5 +2,4 @@
 ## Command Enterprises
 ***
 ### Projects:
-- Commander
-  The Future. | Commander Proxy.
+- Commander | The Future. Commander Proxy.
