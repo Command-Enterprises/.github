@@ -3,4 +3,4 @@
 ***
 ### Projects:
 - Commander
-  The Future. Commander Proxy.
+  The Future. | Commander Proxy.
